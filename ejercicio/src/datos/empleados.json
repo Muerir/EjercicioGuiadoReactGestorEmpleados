@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laura",
+        "apellido": "Gómez",
+        "activo": true,
+        "cargo": "Desarrollador"
+    },
+    {
+        "id": 2,
+        "nombre": "Carlos",
+        "apellido": "Martínez",
+        "activo": false,
+        "cargo": "Analista"
+    },
+    {
+        "id": 3,
+        "nombre": "Ana",
+        "apellido": "Ramírez",
+        "activo": true,
+        "cargo": "Diseñador UX/UI"
+    },
+    {
+        "id": 4,
+        "nombre": "Luis",
+        "apellido": "Torres",
+        "activo": true,
+        "cargo": "Tester"
+    },
+    {
+        "id": 5,
+        "nombre": "Sofía",
+        "apellido": "López",
+        "activo": false,
+        "cargo": "Product Owner"
+    },
+    {
+        "id": 6,
+        "nombre": "Diego",
+        "apellido": "Fernández",
+        "activo": true,
+        "cargo": "Scrum Master"
+    },
+    {
+        "id": 7,
+        "nombre": "Mariana",
+        "apellido": "Vargas",
+        "activo": false,
+        "cargo": "Soporte Técnico"
+    },
+    {
+        "id": 8,
+        "nombre": "Andrés",
+        "apellido": "Ríos",
+        "activo": true,
+        "cargo": "Desarrollador"
+    },
+    {
+        "id": 9,
+        "nombre": "Valentina",
+        "apellido": "Castro",
+        "activo": false,
+        "cargo": "Administrador de BD"
+    },
+    {
+        "id": 10,
+        "nombre": "Javier",
+        "apellido": "Morales",
+        "activo": true,
+        "cargo": "Arquitecto de Software"
+    }
+]
